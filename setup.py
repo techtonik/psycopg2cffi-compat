@@ -31,7 +31,7 @@ setup(
     name="psycopg2cffi-compat",
     version="1.1",
 
-    description="A Simple library to enable psycopg2 compatability",
+    description="A Simple library to enable psycopg2 compatibility",
     license="Apache License v2.0",
     url="https://github.com/dstufft/psycopg2cffi-compat",
 
